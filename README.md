@@ -5,5 +5,5 @@
 Para colocar em ação esse projeto na máquina, digite:
 
 ```
-nps install react
+node app.js
 ```
